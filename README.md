@@ -1,38 +1,82 @@
-@@ -1,8 +1,8 @@
-language: python
-python:
- - "3.4"
- - "3.5"
- - "3.6"
- - "3.7"
-install:
- - pip install -r requirements.txt coverage coveralls
- - python download_corpora.py
-  2 changes: 1 addition & 1 deletion2  
-newspaper/version.py
-@@ -7,5 +7,5 @@
-__license__ = 'MIT'
-__copyright__ = 'Copyright 2014, Lucas Ou-Yang'
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS level 1</title>
+<link rel="styelsheet".href="ks.css">
+</head>
+<body>
+ <h1 style="color: skyblue"> my new project</h1> 
+ <hr>  
+ <h3>apple logo</h3>
+ <hr>
+<!-- <img src="https://cdn.airplane-pictures.net/images/uploaded-images/2021/2/20/1376228.jpg" height= "300"> -->
+<img src="https://www.bing.com/th?id=OIP.QJKZgAQdHQNs-_rfBSKhpAHaHa&pid=3.1&cb=&w=300&h=300&p=0 alt =apple logo">
+<h1><i>apple</i></h1>
+<h1><u>kapil suryavanshi</u></h1>
+<hr>
+<p><h3>h<sub>2</sub>o</p></body></h3></p>
+<hr>
+<h3>user name</h3>
+<input type="text"placenolder="username">
+<br>
+<h3>password</h3>
+<input type="password" placenolder="PASSWORD">
+<lable>
+    <hr>
+<input type="radio"value="classxl"name ="class"id="102">clASS XI
+</lable>
+<hR>
+<!-- <section> this is book</section> -->
+<a href="https://www.youtube.com/"> youtub</a>
+<hr>
+<ul>
+<li>  appli
+      <li> orange</li>
+       <li>apple</li>
+    </li>
+</ul>
+<hr>
+<ol>
+    <li>apple</li>
+    <li>orange</li>
+    <li>grapse</li>
+    <li>cocont</li>
+</ol>
+<hr>
+<table>
+<tr>
+    <th>name</th>
+    <th>roll no</th>
+</tr>
+<tr>
+    <td>kapil</td>
+    <td>1000</td>
+</tr>
+</table>
+<hr>
+<lable>
+<input type="checkbox" valu="aiml" name="subject"id="1000">aiml
+</lable>lable>
+<br>
+<input type="checkbox" valu="cse" name="subject"id="1000">cse
+</lable>lable>
+<br>
+<input type="checkbox" valu="python" name="subject"id="1000">python
+</lable>lable>
+<br>
+<input type="checkbox" valu="full stack" name="subject"id="1000">full stack
+</lable>vlable>
+<br>
+<input type="checkbox" valu="data analatic" name="subject"id="1000">data analatic
+</lable>
+<br>
+</lable>
+<textarea name="feedback"id="101"placehoider="placegive your feedback here">feedback</textarea>
+<slect>
+    <input type="submit" valu="submit">
+  </slect>
 
-version_info = (0, 2, 8)
-version_info = (0, 3, 0)
-__version__ = ".".join(map(str, version_info))
-  2 changes: 1 addition & 1 deletion2  
-requirements.txt
-@@ -11,4 +11,4 @@ python-dateutil>=2.5.3
-PyYAML>=3.11
-requests>=2.10.0
-tinysegmenter==0.3  # TODO(codelucas): Investigate making this >=0.3
-tldextract>=2.0.1
-tldextract>=2.0.1
-  2 changes: 1 addition & 1 deletion2  
-setup.py
-@@ -47,7 +47,7 @@
-
-setup(
-    name='newspaper3k',
-    version='0.2.8',
-    version='0.3.0',
-    description='Simplified python article discovery & extraction.',
-    long_description=readme,
-    author='Lucas Ou-Yang',
+</body>
+</html
